@@ -1,20 +1,3 @@
-
-
-<!--
-**Ankit4315/Ankit4315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Ankit Dhakad</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
@@ -24,7 +7,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/ankit_dhak41512" target="blank"><img src="https://img.shields.io/twitter/follow/ankit_dhak41512?logo=twitter&style=for-the-badge" alt="ankit_dhak41512" /></a> </p>
 
-- 🔭 I’m currently working on **ama**
+- 🔭 I’m currently working on **amazon clone with MERN**
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 📫 How to reach me **ankit.dhakad0001@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wirz5zC3JDD9w1JF_OnwKqmX4dVJe7ur/view?usp=sharing](https://drive.google.com/file/d/1wirz5zC3JDD9w1JF_OnwKqmX4dVJe7ur/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,4 +29,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit4315&show_icons=true&locale=en" alt="ankit4315" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit4315&" alt="ankit4315" /></p>
-
