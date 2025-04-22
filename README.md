@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **a Flutter app**
 - 🌱 I’m currently learning **SQL**
 - 📫 Reach me at **ankit.dhakad0001@gmail.com**
-- 📄 Know about my experience: [Resume](https://drive.google.com/file/d/1Ty3BGn-5JgXw_RBiZIPewAwvTnLl9xL2/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}
+- 📄 Know about my experience: [Resume](https://drive.google.com/file/d/1Ty3BGn-5JgXw_RBiZIPewAwvTnLl9xL2/view?usp=sharing)
 
 ---
 
