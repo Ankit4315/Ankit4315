@@ -11,7 +11,8 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/ankit_dhak41512" target="blank"><img src="https://img.shields.io/twitter/follow/ankit_dhak41512?logo=twitter&style=for-the-badge" alt="ankit_dhak41512" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/www.linkedin.com/in/ankit-dhakad-173076241" target="blank"><img src="https://img.shields.io/twitter/follow/ankit_dhak41512?logo=twitter&style=for-the-badge" alt="ankit_dhak41512" /></a> </p>
+
 
 - 🔭 I’m currently working on **amazon clone with MERN**
 
